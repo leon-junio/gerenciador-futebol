@@ -1,0 +1,172 @@
+.flex-container {
+    display: flex;
+}
+
+.btn-success {
+    background-color: #64f729c5;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+    border: 2px solid whitesmoke;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.btn-success:hover {
+    background-color: #e4e4e4c5;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+div.main {
+    background-color: rgba(22, 22, 22, 0.801);
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-size: contain;
+    padding: 50px;
+    border-radius: 1%;
+    margin-bottom: 10px;
+}
+
+div.main h1,
+div.main .h1 {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-shadow: 4px 4px black;
+    text-align: left;
+    font-size: 45px;
+    margin: auto;
+}
+
+div.main p,
+div.main .p {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-shadow: 3px 3px black;
+    text-align: left;
+    font-size: 30px;
+    margin: auto;
+}
+
+div.main span,
+div.main .span {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-shadow: 3px 3px black;
+    text-align: left;
+    font-size: 30px;
+    margin: auto;
+}
+
+body {
+    background-image: url("https://www.itl.cat/pngfile/big/106-1060651_football-wallpaper-4k.jpg");
+    background-attachment: scroll;
+    background-size: cover;
+    background-origin: content-box;
+    background-position-x: left;
+    padding: 30px;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td,
+th {
+    border: 2px solid black;
+    padding: 5px 10px;
+    border-radius: 10%;
+    width: 10%;
+    height: 10%;
+}
+
+div.dadosbd h1,
+div.dadosbd .h1 {
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+div.dadosbd table,
+div.dadosbd .table {
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    border-collapse: collapse;
+    margin: auto;
+    padding: auto;
+    color: white;
+}
+
+tr:nth-child(odd) {
+    background-color: #63f729a8;
+}
+
+tr:nth-child(even) {
+    background-color: #3aa510a9;
+}
+
+div.dadosbd {
+    background-color: #000000a1;
+    padding: 10px;
+}
+
+div.formularios {
+    background-color: #000000bb;
+    padding: 40px;
+    font-size: 30px;
+    margin: auto;
+}
+
+div.formularios h1,
+div.formularios .h1 {
+    border-collapse: collapse;
+    margin: auto;
+    text-shadow: 3px 3px black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+div.formularios p,
+div.formularios .p {
+    border-collapse: collapse;
+    text-shadow: 3px 3px black;
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+div.formularios form,
+div.formularios .form {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    font-size: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+div.result {
+    background-color: #000000b9;
+    padding: 10px;
+    border-collapse: collapse;
+    margin: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    font-size: 20px;
+}
+
+div.result button,
+div.result .button {
+    margin: auto;
+}

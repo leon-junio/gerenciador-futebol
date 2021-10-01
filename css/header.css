@@ -1,0 +1,17 @@
+.header {
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(99, 236, 140, 0.918);
+    background-size: cover;
+    color: snow;
+    text-shadow: 3px 3px black;
+    font-size: 45px;
+}
+
+.header p,
+.header .p {
+    font-size: 25px;
+    text-align: justify;
+    text-shadow: 1px 1px black;
+}
